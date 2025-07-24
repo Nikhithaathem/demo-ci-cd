@@ -1,1 +1,1 @@
-# demo-ci-cd
+# Demo CI/CD Project
